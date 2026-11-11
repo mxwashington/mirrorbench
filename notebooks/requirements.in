@@ -1,0 +1,3 @@
+# Direct dependency of the MirrorBench notebooks. Pin the reviewed version here, then recompile
+# requirements.txt with hashes (README: "Updating the pinned install").
+requests==2.34.2

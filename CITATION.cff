@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use MirrorBench, please cite it as below."
+title: "MirrorBench"
+version: "0.2.2"
+date-released: "2026-08-30"
+authors:
+  - family-names: "Washington"
+    given-names: "Marcus"
+    affiliation: "NicomaNet Technologies, Inc."
+license: "MIT"

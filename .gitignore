@@ -1,0 +1,10 @@
+results/*/*
+!results/README.md
+!results/.gitkeep
+!results/*/summary.csv
+!results/*/NOTES.md
+!results/*/manifest.json
+
+.ipynb_checkpoints/
+.env
+__pycache__/
